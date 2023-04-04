@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Welcome to AskGenius!
 ## Support
 For any issues with the app please create a ticket [here](https://github.com/sumesh85/sumesh85.github.io/issues/new)
 

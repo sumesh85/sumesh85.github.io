@@ -4,9 +4,9 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-# Privacy Policy for KidsGPT
+# Privacy Policy for AskGenius
 
-KidsGPT respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information about you when you use our mobile application (the "App").
+AskGenius respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information about you when you use our mobile application (the "App").
 
 ## What Information Do We Collect?
 
